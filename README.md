@@ -1,0 +1,1 @@
+This is a repository of JavaScript code that instantiates a hero object and uses its methods and functions to receive data such as: name, age and type (mage, warrior, monk or ninja), this data is processed in a new function within of the object to generate a message that dynamically tells you its type, its name and which attack it is using depending on its chosen type.
