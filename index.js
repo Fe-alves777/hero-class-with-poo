@@ -33,8 +33,7 @@ class heroi {
 
         } 
 
-        //alert(`O ${this.tipo} atacou usando ${ataque}`);
-        console.log(`A ${this.tipo} ${this.nome} atacou usando ${ataque}`);
+        alert(`A ${this.tipo} ${this.nome} atacou usando ${ataque}`);
     }
 
     atacarSe() {
@@ -51,8 +50,7 @@ class heroi {
             ataque = "comum";
         }
 
-        //alert(`O ${this.tipo} atacou usando ${ataque}`);
-        console.log(`O ${this.tipo} ${this.nome} atacou usando ${ataque}`);
+        alert(`O ${this.tipo} ${this.nome} atacou usando ${ataque}`);
     }
 }
 
